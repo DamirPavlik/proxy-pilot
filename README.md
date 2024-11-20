@@ -50,7 +50,7 @@ ProxyPilot is a lightweight and flexible reverse proxy server built in Go. It al
 
 | Command                 | Description                                      |
 |-------------------------|--------------------------------------------------|
-| `make run-proxy`        | Run the ProxyPilot server                        |
+| `make run-proxy`        | Run the Go server                        |
 | `make run`              | Start backend mock services via Docker           |
 | `make stop`             | Stop all running backend mock services           |
 | `make help`             | Display all available Makefile commands  
